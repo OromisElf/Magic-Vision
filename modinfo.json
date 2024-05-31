@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "magic_vision",
+    "name": "Magic Vision",
+    "authors": [ "OromisElf" ],
+    "description": "Makes it more clear what some magiclysm buildings really are.",
+    "category": "rebalance",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "magic_cabin",
+    "name": "magic cabin",
+    "copy-from": "magic_cabin"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "demon_spider_lair",
+    "name": "Demon Spider Lair",
+    "copy-from": "demon_spider_lair"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "house_technomancer_1", "house_technomancer_2" ],
+    "name": "Technomancer house",
+    "copy-from": "generic_city_house"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "house_technomancer_3", "house_technomancer_4", "house_technomancer_5", "house_technomancer_6" ],
+    "name": "Technomancer house",
+    "copy-from": "generic_city_house_no_sidewalk"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lake_retreat_ground",
+    "name": "Wizard's Lake Retreat",
+    "copy-from": "lake_retreat_ground"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "forest_tomb",
+    "name": "Forest Tomb",
+    "copy-from": "forest_tomb"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "last_mage_on_earth_shelter" ],
+    "name": "Mage's Shelter",
+    "copy-from": "lmoe_under_empty"
+  }
+]
