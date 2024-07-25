@@ -40,5 +40,11 @@
     "id": [ "last_mage_on_earth_shelter" ],
     "name": "Mage's Shelter",
     "copy-from": "lmoe_under_empty"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "house_detatched5" ],
+    "name": "Wizard's Home",
+    "copy-from": "house_detatched5"
   }
 ]
